@@ -87,33 +87,4 @@ def main_function(): # This function reads the file "input.txt" and calls profit
         count+=1
         
 main_function()
-
-
-
-    
-
-
- 
-                     
-                             
-                    
-            
-            
-            
-    
-        
-
-    
-        
-        
-            
-            
-            
-            
-        
-        
-  
-    
-    
-        
     
