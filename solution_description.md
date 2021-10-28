@@ -13,5 +13,5 @@ where the maximum is taken over all machines  that are available at time t_1  an
 
 The running time is polynomial in terms of N (the number of machines), T ( all time steps), C ( the maximum possible money made by the company) 
 
- - [ ] To run the program: python3 Solution.py
+ - [ ] To run the program: python3  Solution.py
  - [ ] The code perfectly works with python 3.8.5
