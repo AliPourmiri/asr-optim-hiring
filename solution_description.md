@@ -13,6 +13,4 @@ where the maximum is taken over all machines  that are available at time t_1  an
 
 I believe that  the running time is at most N*|T|*C, where N is number of machines, T is all time steps, C is the maximum possible money made by the company 
 
---
- To run the program: python3 Solution.py
---
+ []To run the program: python3 Solution.py
