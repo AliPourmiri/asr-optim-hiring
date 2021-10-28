@@ -11,6 +11,6 @@ However, if we buy a machine at time t_1 we may resell at time t_j with profit p
 Let  A=Max_{m,t_j}( profit(t_j, capita+p_j)),
 where the maximum is taken over all machines  that are available at time t_1  and t_j is all posibilities tat we resell the machine. Then, profit(t_1, capital)=max{A, profit(t_2,capital)}
 
-I believe that  the running time is at most N*|T|*C, where N is number of machines, T is all time steps, C is the maximum possible money made by the company 
+The running time is polynomial in terms of N (the number of machines), T ( all time steps), C ( the maximum possible money made by the company) 
 
  - [ ] To run the program: python3 Solution.py
