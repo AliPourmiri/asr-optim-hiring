@@ -1,6 +1,5 @@
 #The user can execute the file in terminal in a directory where the input file is available
 #and the solutions will be printed in terminal
-# note that  it is supposed that the input file in "input.txt"
 
 from collections import defaultdict
 
@@ -65,7 +64,7 @@ def profit_maximizer(machines_list,times_list, cap): # This function receives li
                    
                     
                     
-def main_function(): # This function reads the file "input.txt" and calls profit maximizer function.       
+def main_function(): # This function reads the file  and calls profit maximizer function.       
     file = open('instance.txt', 'r')
     count = 1
     while True:
